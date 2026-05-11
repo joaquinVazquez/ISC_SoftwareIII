@@ -1,0 +1,6 @@
+print("===================================================")
+print("               FICHA DE CONTACTO")
+print("===================================================")
+print("Nombre: Joaquín Román Vázquez Zúñiga")
+print("Carrera: Ingeniería en Sistemas")
+print("Ciudad: Teopisca, Chiapas")
